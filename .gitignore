@@ -1,5 +1,6 @@
-# Object file
-*.o
+#include<studio.h>
+return o()
+{
+Printf("enter words");
+}
 
-# Ada Library Information
-*.ali
