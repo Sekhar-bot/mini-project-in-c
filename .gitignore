@@ -1,6 +1,0 @@
-#include<studio.h>
-return o()
-{
-Printf("enter words");
-}
-
