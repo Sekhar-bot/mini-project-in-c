@@ -4,7 +4,7 @@
 my mini projects 1
 
 ### projects
-1.Calculator
+1.Calculator\n
 2.Simple To-Do List
 
 ### Installation
