@@ -1,12 +1,13 @@
 # hello
 
 ## Getting Started
-Step-by-step instructions to set up the project locally.
+my mini projects 1
 
-### Prerequisites
-- List any software or tools required (e.g., Node.js, Python, etc.)
+### projects
+1.Calculator
+
 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/project.git
+   git clone https://github.com/Sekhar-bot/mini-project-in-c
