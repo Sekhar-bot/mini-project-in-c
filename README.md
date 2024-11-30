@@ -48,7 +48,7 @@ This repository contains five beginner-friendly C projects designed to help new 
 
 ---
 
-## Projects Overview  
+## Mini projects 1
 
 ### **1. Calculator Program**  
 A basic calculator that can perform:  
