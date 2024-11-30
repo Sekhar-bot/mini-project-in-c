@@ -42,4 +42,40 @@ Run
   ./<newfile>
 ```
 
+# Beginner-Level C Programming Projects  
+
+This repository contains five beginner-friendly C projects designed to help new programmers strengthen their coding skills. Each project focuses on core programming concepts and problem-solving techniques.  
+
+---
+
+## Projects Overview  
+
+### **1. Calculator Program**  
+A basic calculator that can perform:  
+- Addition, subtraction, multiplication, and division.  
+- Extended functionality: square roots and trigonometric operations (e.g., sine, cosine).  
+
+### **2. Simple To-Do List**  
+A console-based application to manage tasks:  
+- Add, view, edit, and delete tasks.  
+- Designed for organizing daily activities.  
+
+### **3. Guess the Number Game**  
+A fun number guessing game:  
+- The computer generates a random number.  
+- The player guesses within a limited number of attempts.  
+
+### **4. Student Grades System**  
+A program to manage class performance:  
+- Input grades for a group of students.  
+- Calculate average, highest, and lowest grades.  
+
+### **5. Unit Converter**  
+A utility program for converting between units:  
+- Temperature: Celsius ↔ Fahrenheit.  
+- Distance: Miles ↔ Kilometers.  
+- Weight: Pounds ↔ Kilograms.  
+
+---
+
 
